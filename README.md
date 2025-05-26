@@ -1,4 +1,4 @@
 # practice-demo
 This is my first Git Repository.
 <br>
-Autor - Neetu Bhakuni
+Autor - Neetu Bhakuni (Apna India)
